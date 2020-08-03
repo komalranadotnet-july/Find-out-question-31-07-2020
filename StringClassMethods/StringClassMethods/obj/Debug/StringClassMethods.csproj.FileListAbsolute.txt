@@ -1,0 +1,7 @@
+E:\Dot Net\Find out 31-07-2020\StringClassMethods\StringClassMethods\bin\Debug\StringClassMethods.exe.config
+E:\Dot Net\Find out 31-07-2020\StringClassMethods\StringClassMethods\bin\Debug\StringClassMethods.exe
+E:\Dot Net\Find out 31-07-2020\StringClassMethods\StringClassMethods\bin\Debug\StringClassMethods.pdb
+E:\Dot Net\Find out 31-07-2020\StringClassMethods\StringClassMethods\obj\Debug\StringClassMethods.csprojAssemblyReference.cache
+E:\Dot Net\Find out 31-07-2020\StringClassMethods\StringClassMethods\obj\Debug\StringClassMethods.csproj.CoreCompileInputs.cache
+E:\Dot Net\Find out 31-07-2020\StringClassMethods\StringClassMethods\obj\Debug\StringClassMethods.exe
+E:\Dot Net\Find out 31-07-2020\StringClassMethods\StringClassMethods\obj\Debug\StringClassMethods.pdb
